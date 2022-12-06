@@ -95,7 +95,7 @@ font-size: 1.2rem;
 border-radius: 25px;
 border: 1px solid rgba(225,225,225, 0.8);
 background-color: rgba(225,225,225, 0.1);
-color: #fff;
+color: rgb(242, 231, 231);
 }
 
 ::placeholder {
